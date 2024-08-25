@@ -1,2 +1,2 @@
 # stella-ai-studio
-STELLA AI Studio (Deprecated)
+STELLA AI Studio Version 24.0731 (Deprecated)

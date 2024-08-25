@@ -101,7 +101,7 @@ def preset_select(preset):
         return gr.Dropdown(choices=styleList, value=styleList[0])
 
 with gr.Blocks(title="AI Studio", css="html/Style.css", analytics_enabled=False, theme=system_theme, fill_height=True) as demo:
-    gr.Markdown("## <br><center>Stella AI Studio - Gradio Playground Version 24.0718")
+    gr.Markdown("## <br><center>Stella AI Studio - Gradio Playground Version 24.0731")
 
     with gr.Tab("Image Generator"):
         with gr.Row(equal_height=False):

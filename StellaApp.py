@@ -15,7 +15,7 @@ from io import BytesIO
 from PIL import Image, ImageEnhance
 
 class StellaApp():
-    """ikmalsaid"s STELLA AI Studio (Version 24.0721). Copyright (C) 2024 All rights reserved.
+    """ikmalsaid"s STELLA AI Studio (Version 24.0731). Copyright (C) 2024 All rights reserved.
     """    
     def __init__(self, local_save_dir:str="outputs", local_save:bool=False, show_debug_log:bool=False, local_log_dir:str="logs", use_as_gradio:bool=False, use_as_webapi:bool=False) -> None:
         """Initialize STELLA module.

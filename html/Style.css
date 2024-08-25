@@ -36,10 +36,10 @@ footer {
     height: 100%;
 }
 
-/* .grid-container.svelte-eynlr2.svelte-eynlr2 {
+.grid-container.svelte-eynlr2.svelte-eynlr2 {
     grid-template-rows: repeat(auto-fit, minmax(150px, 1fr));
     grid-template-columns: repeat(auto-fit, minmax(150px, 0.505fr));
-} */
+}
 
 .wrap.svelte-1sbaaot {
     align-items: inherit;
