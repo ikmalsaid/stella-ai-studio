@@ -1,6 +1,6 @@
 import gradio as gr
 from StellaApp import StellaApp
-from StellaDalle3 import StellaD3
+from StellaD3 import StellaD3
 
 sa = StellaApp(use_as_gradio=True, local_save=True, show_debug_log=True)
 d3 = StellaD3()
