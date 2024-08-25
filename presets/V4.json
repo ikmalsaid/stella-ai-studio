@@ -1,0 +1,16 @@
+{
+    "None": {"prompt": "{prompt}", "negative_prompt": "{negative_prompt}"},
+    "Icon": {"prompt": "{prompt}<effect>0001</effect>", "negative_prompt": "{negative_prompt}"},
+    "Logo": {"prompt": "{prompt}<effect>0002</effect>", "negative_prompt": "{negative_prompt}"},
+    "Pixel Art": {"prompt": "{prompt}<effect>0003</effect>", "negative_prompt": "{negative_prompt}"},
+    "Paper Cut": {"prompt": "{prompt}<effect>0004</effect>", "negative_prompt": "{negative_prompt}"},
+    "Sticker": {"prompt": "{prompt}<effect>0005</effect>", "negative_prompt": "{negative_prompt}"},
+    "Book Cover": {"prompt": "{prompt}<effect>0006</effect>", "negative_prompt": "{negative_prompt}"},
+    "Sketch": {"prompt": "{prompt}<effect>0007</effect>", "negative_prompt": "{negative_prompt}"},
+    "Flat Style": {"prompt": "{prompt}<effect>0008</effect>", "negative_prompt": "{negative_prompt}"},
+    "Vector Art": {"prompt": "{prompt}<effect>0009</effect>", "negative_prompt": "{negative_prompt}"},
+    "Doodle": {"prompt": "{prompt}<effect>0010</effect>", "negative_prompt": "{negative_prompt}"},
+    "Minimal": {"prompt": "{prompt}<effect>0011</effect>", "negative_prompt": "{negative_prompt}"},
+    "Scribble": {"prompt": "{prompt}<effect>0012</effect>", "negative_prompt": "{negative_prompt}"},
+    "Product Design": {"prompt": "{prompt}<effect>0013</effect>", "negative_prompt": "{negative_prompt}"}
+}

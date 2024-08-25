@@ -1,0 +1,7 @@
+{
+    "OpenPose": "openpose",
+    "Scribble": "scribble",
+    "Line Art": "lineart",
+    "Depth": "depth",
+    "Canny": "canny"
+}

@@ -1,0 +1,21 @@
+{
+    "Image Generator": "f1",
+    "Image Controlnet": "f2",
+    "Image Variation": "f3",
+    "Image Inpainting": "f4",
+    "Image Eraser": "f5",
+    "Image Upscaler": "f6",
+    "Prompt Generator": "f7",
+    "Creative Upscaler": "f8",
+    "Background Remover": "f9",
+    "Realtime Generator": "f10",
+    "Realtime Canvas": "f11",
+    "Face Consistency": "f12",
+    "Style Consistency": "f13",
+    "Face Restoration": "f14",
+    "Face Swapper": "f15",
+    "Image Enhancer": "f16",
+    "Image 3D LUT Processor": "f17",
+    "Prompt Randomizer": "f18"
+}
+
